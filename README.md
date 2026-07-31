@@ -1,9 +1,9 @@
 <!--
 FINAL NEAT CYBER-SECURITY PROFILE v6.0
-  Designed for: Lakshmikanth Sandeep (LK252006)
+  Designed for: Lakshmi Kanth Sandeep (LK252006)
   Theme: Cyberpunk / Neon / Glassmorphism
 --> <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=LAKSHMIKANTH%20SANDEEP&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Engineer%20|%20Full%20Stack%20Developer&descSize=25&descAlignY=60&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=LAKSHMI%20KANTH%20SANDEEP&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Engineer%20|%20Full%20Stack%20Developer&descSize=25&descAlignY=60&fontColor=FFFFFF" width="100%" />
 </div> <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+SaaS+products;Securing+the+digital+frontier;World-class+Cyber+Security+Engineer;Open+Source+Contributor" alt="Typing Animation" />
 </div>   
