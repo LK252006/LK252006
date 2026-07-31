@@ -45,8 +45,6 @@ FINAL NEAT CYBER-SECURITY PROFILE v6.0
 
 <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/main/assets/line-neon.gif" width="80%" height="3px">
 
-  <img src="https://komarev.com/ghpvc/?username=LK252006&color=7C3AED&style=flat-square&label=SYSTEM+ACCESSES" alt="Visitor Counter" />     
-
   <p><i>"The best way to predict the future is to secure it."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" />
 </div>
